@@ -26,3 +26,8 @@
 ## My GitHub stats:
 
 <img alt="atom_github_stats" src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=dark&count_private=true" />
+
+## My Discord Profile:
+
+<img alt="niscorde" src="https://discord.c99.nl/widget/theme-3/830224373306359828.png" />
+(*join discord.gg/vide btw*)
