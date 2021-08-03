@@ -15,7 +15,6 @@
 ## What I'm currently learning:
 
 <img align="left" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="vlang" width="35px" src="https://vlang.io/img/v-logo.png" />
 <img align="left" alt="express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br /><br />
 
