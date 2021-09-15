@@ -1,12 +1,13 @@
 # Hi, I'm atomkern 💩
 
-* 🌱 I'm currently learning Java
+* 🇫🇷 I'm a french guy who is trying to learn how to program
+* 🌱 I'm currently learning C
 * 🐒 I'm also doing bad Discord Bots
 
 ## What I'm currently using:
 
 <img align="left" alt="vim" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
-<img align="left" alt"arch" width="35px" src="https://symbols.getvecta.com/stencil_74/94_arch-linux-icon.ef027ae7a3.svg" />
+<img align="left" alt="arch" width="35px" src="https://symbols.getvecta.com/stencil_74/94_arch-linux-icon.ef027ae7a3.svg" />
 <img align="left" alt="intellij" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" /> 
 <img align="left" alt="javascript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="mongodb" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -15,8 +16,8 @@
 
 ## What I'm currently learning:
 
-<img align="left" alt="java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="express" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="c" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="haskell" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <br /><br />
 
 ## My most used languages:
@@ -29,7 +30,6 @@
 
 ## My Discord Profile:
 
-<img alt="niscorde" src="https://discord.c99.nl/widget/theme-3/830224373306359828.png" />
+<img alt="discord" src="https://discord.c99.nl/widget/theme-3/830224373306359828.png" />
 
 * join [discord.gg/vide](https://discord.gg/C4gtfB8JQK) btw
-
