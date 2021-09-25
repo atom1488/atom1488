@@ -22,11 +22,11 @@
 
 ## My most used languages:
 
-<img alt="atom_most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&layout=compact&theme=dark&count_private=true" />
+<img alt="atom_most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&langs_count=6&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" />
 
 ## My GitHub stats:
 
-<img alt="atom_github_stats" src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=dark&count_private=true" />
+<img alt="atom_github_stats" src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" />
 
 ## My Discord Profile:
 
