@@ -6,17 +6,14 @@
 
 ## What I'm currently using:
 
-<img align="left" alt="vim" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> 
-<img align="left" alt="intellij" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg" /> 
-<img align="left" alt="javascript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="typescript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="mongodb" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="nodejs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br /><br />
 
 ## What I'm currently learning:
 
-<img align="left" alt="c" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="haskell" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+rien aya
 <br /><br />
 
 ## My most used languages:
@@ -29,6 +26,6 @@
 
 ## My Discord Profile:
 
-<img alt="discord" src="https://discord.c99.nl/widget/theme-3/830224373306359828.png" />
+<img alt="discord" src="https://discord.c99.nl/widget/theme-3/834157306861846601.png" />
 
-* join [discord.gg/vide](https://discord.gg/C4gtfB8JQK) btw
+* join [discord.gg/vide](https://discord.gg/UwkcY8BwMb)
