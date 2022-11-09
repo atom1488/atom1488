@@ -1,8 +1,7 @@
 # Hi, I'm atomkern 💩
 
-* 🇫🇷 I'm a french guy who is trying to learn how to program
-* 🌱 I'm currently learning C
-* 🐒 I'm also doing bad Discord Bots
+* 🇫🇷 I'm a french guy trying to learn how to code
+* 🌱 I'm currently learning React
 
 ## What I'm currently using:
 
@@ -13,14 +12,13 @@
 
 ## What I'm currently learning:
 
-rien aya
+<img align="left" alt="react" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 <br /><br />
 
-## My most used languages:
+### Some stats:
 
 <img alt="atom_most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&langs_count=6&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" />
-
-## My GitHub stats:
 
 <img alt="atom_github_stats" src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" />
 
