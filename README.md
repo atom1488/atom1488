@@ -12,7 +12,7 @@
 
 ## What I'm currently learning:
 
-<img align="left" alt="react" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+<img align="left" alt="angular" width="35px" src="https://api.iconify.design/devicon/angular.svg" />
 
 <br /><br />
 
