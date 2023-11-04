@@ -1,7 +1,7 @@
 # Hi, I'm atomkern 💩
 
 * 🇫🇷 I'm a french guy trying to learn how to code
-* 🌱 I'm currently learning React
+* 🌱 I'm currently learning Angular
 
 ## What I'm currently using:
 
@@ -12,7 +12,7 @@
 
 ## What I'm currently learning:
 
-<img align="left" alt="react" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="react" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 
 <br /><br />
 
