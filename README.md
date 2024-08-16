@@ -28,5 +28,5 @@
 Feel free to connect with me on Discord:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-atomkernel-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: atomkernel"/>
+  <img src="https://img.shields.io/badge/-nukleon88-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: nukleon88"/>
 </p>
