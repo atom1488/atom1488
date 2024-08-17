@@ -4,17 +4,15 @@
 
 ## 💻 Technologies I Use
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,scss,nodejs,ts,mongodb)](https://skillicons.dev)
 
-## 🌱 I’m Currently Learning
+## 🌱 I'm Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
+[![Learning](https://skillicons.dev/icons?i=angular,cpp)](https://skillicons.dev)
+
+## 🛠 Tools I Use
+
+[![Tools](https://skillicons.dev/icons?i=linux,vscode,vim)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
