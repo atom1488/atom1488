@@ -1,6 +1,6 @@
 # Hello, I'm atomkern! 👋🌟
 
-🇫🇷 Passionate about programming, I am constantly on the lookout for new technologies to explore and master.
+🇱🇺 Passionate about programming, I am constantly on the lookout for new technologies to explore and master.
 
 ## 💻 Technologies I Use
 
@@ -16,10 +16,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&theme=blue-green&hide_border=true&layout=compact" alt="Most Used Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
+</div>
 
 ## 🚀 Connect with Me
 
