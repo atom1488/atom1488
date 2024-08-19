@@ -17,8 +17,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&theme=blue-green&hide_border=true&layout=compact" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&theme=catppuccin_mocha&hide_border=true&layout=compact&count_private=true" alt="Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
 </div>
 
 ## 🚀 Connect with Me
